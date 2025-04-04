@@ -1,0 +1,3 @@
+[submodule "densofi-frontend"]
+	path = densofi-frontend
+	url = https://github.com/0xkieranwilliams/densofi-frontend
